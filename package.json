@@ -1,0 +1,29 @@
+{
+  "name": "mywebpack",
+  "version": "1.0.0",
+  "description": "Webpack learning tour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anduin-L/myWebpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anduin-L/myWebpack/issues"
+  },
+  "homepage": "https://github.com/Anduin-L/myWebpack#readme",
+  "dependencies": {
+    "webpack": "^5.75.0"
+  },
+  "devDependencies": {
+    "@babel/generator": "^7.20.5",
+    "@babel/parser": "^7.20.5",
+    "@babel/traverse": "^7.20.5",
+    "@babel/types": "^7.20.5",
+    "tapable": "^2.2.1"
+  }
+}
